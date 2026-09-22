@@ -1,0 +1,154 @@
+{
+    "name": "Brown Brothers Media",
+    "references": [
+        "https://github.com/alvi-se/ai-ublock-blacklist/issues/82",
+        "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire"
+    ],
+    "sites": [
+        {
+            "site": "artfulparent.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "baselinemag.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "blogherald.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "dmnews.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "drwolfmedia.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "energy-daily.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "experteditor.com.au",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "geediting.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "hackspirit.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "jeanettebrown.net",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "killerstartups.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "maketecheasier.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "marsdaily.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "newsreports.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "scandinaviastandard.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "scienceblog.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "siliconcanals.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "smallbiztechnology.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "smallbusinessbonfire.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "space-travel.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "spacedaily.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "spacewar.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "terradaily.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "theartfulage.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thelawdictionary.org",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "thevessel.io",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "tweakyourbiz.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "vegoutmag.com",
+            "reason": "AI slop",
+            "references": []
+        },
+        {
+            "site": "eluxemagazine.com",
+            "reason": "AI slop",
+            "references": []
+        }
+    ]
+}
