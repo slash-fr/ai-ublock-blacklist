@@ -963,6 +963,14 @@
             "site": "lidarr.org",
             "reason": "AI slop. Fake homepage for Lidarr. Official homepage is on lidarr.audio",
             "references": []
+        },
+        {
+            "site": "linuxsecurity.com",
+            "reason": "AI slop",
+            "references": [
+                "https://techrights.org/n/2025/07/25/Slopwatch_LinuxTechLab_linuxsecurity_com_LinuxIac_and_More.shtml",
+                "https://techrights.org/n/2026/01/19/LinuxSecurity_and_Linuxiac_Are_Still_Slopfarms_Even_Anthony_Pel.shtml"
+            ]
         }
     ]
 }
